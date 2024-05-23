@@ -122,15 +122,15 @@ All imagery was imported from google images.
 
 #### Home Page
 
-![Home Page]("C:\Users\Andre\Pictures\New Wireframe 1.png")
+![home page](<New Wireframe 1.png>)
 
 #### Gallery Page
 
-![Gallery Page]("C:\Users\Andre\Pictures\New Wireframe 2.png")
+![gallery](<New Wireframe 2-1.png>)
 
 #### Sign Up Page
 
-![Form Page]("C:\Users\Andre\Pictures\New Wireframe 3.png")
+![sign up](<New Wireframe 3.png>)
 
 
 ### Features
